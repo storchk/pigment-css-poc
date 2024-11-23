@@ -42,3 +42,8 @@ To get started with this PoC, follow these steps:
 - Check multiple theme support
 - Check `useTheme` support
 - Understand library build
+
+## References
+
+- [[pigment-css] Why a standalone project?](https://mui-org.notion.site/pigment-css-Why-a-standalone-project-25205c31c8564e0daee6f79523de9b5c#864e39e82c184d2db64d67ba5f0c94f7)
+- [🧪 Pigment CSS](https://github.com/mui/pigment-css?tab=readme-ov-file#media-and-container-queries)
